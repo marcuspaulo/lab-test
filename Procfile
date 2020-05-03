@@ -1,1 +1,1 @@
-web: java -jar target/testlab-dev.jar
+web: java -jar target/testlab-1.0-SNAPSHOT.jar

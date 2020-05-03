@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/testlab-1.0-SNAPSHOT.jar
+web: java -Dquarkus.http.port=$PORT $JAVA_OPTS -jar target/testlab-1.0-SNAPSHOT.jar
